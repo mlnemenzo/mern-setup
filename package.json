@@ -1,0 +1,22 @@
+{
+  "name": "mern_setup",
+  "version": "1.0.0",
+  "description": "Example of MERN stack setup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mlnemenzo/mern-setup.git"
+  },
+  "author": "Mark Nemenzo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mlnemenzo/mern-setup/issues"
+  },
+  "homepage": "https://github.com/mlnemenzo/mern-setup#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
